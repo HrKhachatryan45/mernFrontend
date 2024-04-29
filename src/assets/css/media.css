@@ -1,0 +1,3073 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .navB{
+        height: 75px;
+        padding: 0 60px!important;
+    }
+    .nv{
+        height: 75px;
+    }
+    #inpPlus input{
+        width: 80%;
+        height: 35px;
+        font-size: 13px;
+        border-radius: 8.5px;
+        padding-left: 35px;
+    }
+    #inpPlus svg{
+        font-size: 12px;
+        left: 12px;
+    }
+    .nv li{
+        font-size: 13px;
+    }
+
+
+    .nv button{
+        width: 60px;
+        height: 35px;
+        border-radius: 4px;
+        font-size: 10px;
+    }
+
+
+
+    #rt3{
+        margin-top: 35px!important;
+        margin-bottom: 25px!important;
+    }
+    #rt3 h1{
+        font-size: 23px;
+    }
+    .y45{
+        margin-left: 20px;
+    }
+    .y45 h2{
+        font-size: 17px;
+        margin-left: 8.5px;
+    }
+    .y45 svg{
+        font-size: 17px;
+    }
+    .tr{
+        padding: 0 50px!important;
+    }
+    .eachMovie {
+        width: 16.2%;
+        height: 226px;
+        margin-bottom: 3px;
+        margin-right: 3px;
+    }
+
+    #top{
+        padding: 0px 13px;
+        margin-top: 8px;
+    }
+
+    #top h2{
+        font-size: 18px;
+    }
+
+
+    #bottom h3{
+        font-size: 10px;
+        margin-right: 4px;
+    }
+    #bottom{
+        padding: 5px 5px;
+        padding-top: 8.5px;
+    }
+    .eachMovie:hover #bottom{
+        border-radius: 8.5px;
+        margin-bottom: 8.5px;
+    }
+    #bottom h1{
+        font-size: 14px;
+    }
+
+    #tr{
+        width: 32px;
+        height: 32px;
+        font-size: 13px;
+    }
+
+
+    .pagination{
+        width: 35%;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .eachPage{
+        width: 42px;
+        height: 42px;
+        font-size: 1em;
+    }
+
+
+    .filterBy{
+        padding: 30px 0!important;
+    }
+
+    .jio h1{
+        font-size: 25px;
+    }
+    .real{
+        width: 92%;
+        padding:  35px 35px!important;
+    }
+
+    #headline{
+        margin-top: 25px;
+        margin-bottom: 17px;
+    }
+    #headline svg{
+        font-size: 14px;
+    }
+    #headline h2{
+        font-size: 14px;
+        margin-left: 8.5px;
+    }
+
+    .options p{
+        padding:  5px 7px;
+        border-radius: 5px;
+        margin-bottom: 5px;
+        margin-right: 5px;
+    }
+    .end{
+        margin-top: 20px;
+    }
+    #id1{
+        height: 45px;
+        border-radius: 8.5px;
+        font-size: 17px;
+    }
+    #id2{
+        width: 14.5%;
+        height: 45px;
+        border-radius: 8.5px;
+        font-size: 17px;
+    }
+
+    .er{
+        margin-top: 25px;
+    }
+
+
+
+    .footer{
+        height: 300px;
+    }
+    .foot{
+        height: 300px;
+        padding:50px 50px!important;
+    }
+    .imge img{
+        width: 70%;
+        height: 35px;
+    }
+
+    .sec h3{
+        font-size: 13px;
+    }
+    .sec p,.sec span{
+        margin-top: 6px;
+        font-size: 11px;
+    }
+
+    .sec section{
+        margin-top: 5px;
+    }
+
+    .yn h4{
+        font-size: 12px;
+    }
+    .enw button{
+        width: 82px;
+        height: 40px;
+        border-radius:8.5px;
+    }
+    .enw h2{
+        font-size: 13px;
+    }
+    .enw svg{
+        font-size: 12px;
+        margin-right: 5px;
+    }
+
+    .movieD,.gfr{
+        height: 680px;
+    }
+
+
+    .lft img{
+        width: 160px;
+        height: 226px;
+        top: 28px;
+    }
+    .rght{
+        padding: 26px 28px;
+    }
+    #eg{
+        width: 94px;
+        height: 32px;
+        border-radius: 30px;
+    }
+    #eg a{
+        font-size: 14px;
+    }
+    #eg svg{
+        font-size: 8.5px;
+        margin-right: 5px;
+    }
+    .lft p{
+        font-size: 17px;
+        left: -70px;
+        top: 40px;
+    }
+    .rght h1{
+        font-size: 29px;
+        margin-top: 27px;
+    }
+
+
+    .all8{
+        margin-top: 30px;
+        margin-bottom: 35px;
+    }
+    #fre{
+        font-size: 17px;
+    }
+    .gtr h2{
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    .gtr{
+        height: 48px;
+        margin-right: 17px;
+        padding-right: 30px;
+    }
+
+    .all8 button{
+        width: 145px;
+        height: 48px;
+        padding: 0 13px;
+        border-radius: 8.5px;
+    }
+    .all8 button h3,.all8 button svg{
+        font-size: 14px;
+    }
+    #ert svg{
+        font-size: 12px;
+        margin-right: 5px;
+    }
+    #rew p{
+        font-size: 12px;
+    }
+    #key,#value{
+        font-size: 12px;
+        margin-top: 13px;
+    }
+
+    .sd{
+        width: 75px;
+        height: 26px;
+        border-radius: 5px;
+        font-size: 10px;
+        margin-top: 8.5px;
+    }
+
+    .sd svg{
+        font-size: 13px;
+        margin-right: 4px;
+    }
+
+    .afe{
+        padding: 12px 17px;
+        border-radius: 8.5px;
+        margin-top: 5px;
+    }
+    .afe p{
+        font-size: 11px;
+    }
+
+    .allKeys{
+        margin-top: 17px;
+    }
+    #n2{
+        margin-left: 22px;
+    }
+    #n2 h3{
+        font-size: 12px;
+        margin-top: 13px;
+        margin-right: 5px;
+    }
+
+    .relatedPhotos{
+        padding: 30px 0!important;
+    }
+    #imgo{
+        width: 100%;
+        height: 150px;
+    }
+    .nextNuka,.prevNuka{
+        width: 45px;
+        height: 60px;
+        border-radius: 5px;
+        font-size: 27px;
+
+    }
+
+    .nextNuka{
+        margin-right: -17px;
+    }
+    .prevNuka{
+        margin-left: -17px;
+    }
+
+
+    .doty{
+        top: 200px!important;
+        margin-left: -100px!important;
+    }
+    .paging-item  {
+        width: 22px;
+        height: 6px;
+        margin-right: 8.5px;
+    }
+
+    .myLike {
+        padding: 40px 50px !important;
+    }
+    .yer h1{
+        font-size: 23px;
+        margin-bottom: 17px;
+    }
+
+    #rrw{
+        font-size:27px ;
+        top: -11px;
+        right: -11px;
+    }
+    .re{
+        width: 70%;
+        height: 60%;
+    }
+
+
+
+    .gp{
+        padding-top: 40px!important;
+        padding-bottom: 70px!important;
+    }
+
+    .htuk{
+        height: 357px;
+        border-radius: 30px;
+    }
+    .htuk img{
+        width: 200px;
+        height: 60px;
+    }
+    .htuk p{
+        font-size: 14px;
+        margin-top: 17px;
+    }
+    .ter span{
+        font-size: 16px;
+    }
+    .ter p{
+        font-size: 9.5px;
+    }
+    .ter section{
+        width: 47px;
+        height: 27px;
+        margin-left: 5px;
+        font-size: 9.5px;
+    }
+
+    .htuk button{
+        width: 370px;
+        height: 50px;
+        border-radius: 13px;
+        font-size: 16px;
+        margin-top: 17px;
+    }
+    .specialU{
+        font-size: 28px;
+        margin-top: 50px;
+    }
+    .spP{
+        font-size: 14px;
+    }
+    .ae{
+        margin-top: 8.5px;
+        margin-bottom: 17px;
+    }
+
+
+    .ug{
+        padding: 40px 50px!important;
+    }
+    .ug h1{
+        font-size: 34px;
+    }
+    .ug p{
+        font-size: 13px;
+        margin-top: 10px;
+    }
+    .ug input{
+        width: 100%;
+        height: 40px;
+        font-size: 14px;
+        margin-bottom: 21px;
+    }
+
+
+    .ug h4{
+        font-size: 13px;
+    }
+    .ug textarea{
+        width: 100%;
+        height: 70px;
+        font-size: 14px;
+    }
+
+    .ug button{
+        width: 97px;
+        height: 42px;
+        border-radius: 8.5px;
+        margin-top: 30px;
+        font-size: 17px;
+    }
+
+
+
+
+
+
+
+
+
+    .loginOrSignup{
+        padding:40px 50px ;
+        padding-top: 100px!important;
+    }
+    .sty{
+        width: 90%;
+    }
+    .sty img{
+        width: 50%;
+        height: 650px;
+    }
+    .right-part{
+        width: 50%;
+        height: 650px;
+        padding: 30px 45px;
+    }
+    .login svg{
+        font-size: 30px;
+        top: -42px;
+        right: -55px;
+    }
+    .login h1{
+        font-size: 29px;
+    }
+    .login p{
+        font-size: 14px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    .login input{
+        width: 100%;
+        height: 40px;
+        font-size: 16px;
+    }
+    .login button{
+        width: 100%;
+        height: 46px;
+        border-radius: 10px;
+        font-size: 16px;
+        margin-top: 35px;
+    }
+
+    #h,#h1{
+        font-size: 16px;
+        line-height: 1.6;
+    }
+    #h1{
+        margin-top: 25px;
+    }
+    #h1 h4{
+        margin-left: 5px;
+        font-size: 16px;
+    }
+    .error{
+        border-radius: 8px;
+        padding: 10px;
+    }
+    .error p{
+        font-size: 16px;
+    }
+
+
+
+    .success{
+        border-radius: 8px;
+        padding: 10px;
+    }
+    .success p{
+        font-size: 16px;
+    }
+
+
+
+
+
+
+
+
+
+    #arrowDown{
+        width: 35px;
+        height: 35px;
+        font-size: 14px;
+    }
+
+    .menuDown{
+        top: 43px;
+        border-radius: 10px;
+        width: 190px;
+        padding: 12px 0px;
+    }
+
+    .eq{
+        padding: 0 22px;
+        width: 100%;
+        height: 37px;
+    }
+    .eq svg{
+        font-size: 14px;
+        margin-right: 18px;
+    }
+
+
+    .eq h3{
+        font-size: 14px;
+    }
+
+
+
+    .header{
+        height: 138px;
+    }
+
+    .hd{
+        height: 138px;
+    }
+    .hd h1{
+        font-size: 34px;
+    }
+    .bottomP{
+        width: 100%;
+        height: 40px;
+    }
+
+    .bottomP section{
+        padding: 9px 14px;
+        border-top-left-radius: 7px;
+        border-top-right-radius: 7px;
+    }
+    .bottomP h4{
+        font-size: 14px;
+    }
+
+    .bhd{
+        padding: 50px 0!important;
+    }
+    .bhd p{
+        font-size: 12px;
+        margin-bottom: 8.5px;
+    }
+    .bhd input{
+        height: 40px;
+        font-size: 14px;
+        margin-bottom: 25px;
+    }
+
+
+
+    .bhde button{
+        width: 100px;
+        height: 45px;
+        border-radius: 8.5px;
+        font-size: 17px;
+    }
+    #en p{
+        font-size: 14px;
+    }
+    #en svg{
+        margin-right: 8.5px;
+        font-size: 14px;
+
+    }
+    .isNeeded{
+        padding-bottom: 70px!important;
+    }
+
+
+    .lbl{
+        width: 94%;
+        height: 72%;
+        padding: 30px 45px;
+    }
+    #we{
+        font-size: 25px;
+        top: -12px;
+        right: -12px;
+    }
+    .lbl h1{
+        font-size: 25px;
+    }
+
+    .lbl h2{
+        font-size: 14px;
+        margin-top: 8.5px;
+        margin-bottom: 30px;
+    }
+    .lbl input{
+        height: 40px;
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+
+    .lbl button{
+        width: 100%;
+        height: 42px;
+        border-radius: 8.5px;
+        font-size: 18px;
+        margin-top: 30px;
+        margin-bottom: 12px;
+    }
+
+
+    .fee{
+        padding-bottom: 35px!important;
+    }
+    .fee h1{
+        font-size: 25px;
+    }
+
+    .lbl svg,#par svg{
+        font-size: 16px;
+        right: 0;
+        margin-top: 8px;
+    }
+
+    #par svg{
+        top: 45px;
+
+    }
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .navB{
+        height: 55px;
+        padding: 0 50px;
+    }
+    .nv{
+        height: 55px;
+    }
+    #inpPlus input{
+        width: 80%;
+        height: 30px;
+        font-size: 11px;
+        border-radius: 6px;
+        padding-left: 30px;
+    }
+    #inpPlus svg{
+        font-size: 9px;
+        left: 9px;
+    }
+    .nv li{
+        font-size: 10px;
+    }
+
+
+    .nv button{
+        width: 50px;
+        height: 30px;
+        border-radius: 3px;
+        font-size: 8px;
+    }
+
+
+
+
+    #rt3{
+        margin-top: 30px!important;
+        margin-bottom: 20px!important;
+    }
+    #rt3 h1{
+        font-size: 21px;
+    }
+    .y45{
+        margin-left: 17px;
+    }
+    .y45 h2{
+        font-size: 14px;
+        margin-left: 7px;
+    }
+    .y45 svg{
+        font-size: 14px;
+    }
+    .tr{
+        padding: 0 20px!important;
+    }
+    .eachMovie {
+        width: 24.3%;
+        height:226px;
+        margin-bottom: 5px;
+    }
+
+    #top{
+        padding: 0px 11px;
+        margin-top: 6px;
+    }
+
+    #top h2{
+        font-size: 14px;
+    }
+    #bottom h3{
+        font-size: 8.5px;
+        margin-right: 4px;
+    }
+    #bottom{
+        padding: 4px 4px;
+        padding-top: 7px;
+    }
+    .eachMovie:hover #bottom{
+        border-radius: 7px;
+        margin-bottom: 7px;
+    }
+    #bottom h1{
+        font-size: 11px;
+    }
+
+    #tr{
+        width: 25px;
+        height: 25px;
+        font-size: 11px;
+    }
+
+
+    .pagination{
+        width: 40%;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .eachPage{
+        width: 38px;
+        height: 38px;
+        font-size: 1em;
+        border-radius: 5px;
+    }
+
+
+    .filterBy{
+        padding: 20px 0!important;
+    }
+
+    .jio h1{
+        font-size: 21px;
+    }
+    .real{
+        width: 94.5%;
+        padding:  30px 30px!important;
+    }
+
+    #headline{
+        margin-top: 22px;
+        margin-bottom: 14px;
+    }
+    #headline svg{
+        font-size: 12px;
+    }
+    #headline h2{
+        font-size: 12px;
+        margin-left: 7px;
+    }
+
+    .options p{
+        font-size: 14px;
+        padding:  4px 6px;
+        border-radius: 4px;
+        margin-bottom: 4px;
+        margin-right: 4px;
+    }
+    .end{
+        margin-top: 17px;
+    }
+    #id1{
+        height: 40px;
+        border-radius: 7px;
+        font-size: 14px;
+    }
+    #id2{
+        height: 40px;
+        border-radius: 7px;
+        font-size: 14px;
+    }
+
+    .er{
+        margin-top: 22px;
+    }
+
+
+
+
+    .footer{
+        height: 220px;
+    }
+    .foot{
+        height: 220px;
+        padding:40px 40px!important;
+    }
+    .imge img{
+        width: 65%;
+        height: 25px;
+    }
+
+    .sec h3{
+        font-size: 10px;
+    }
+    .sec p,.sec span{
+        margin-top: 3px;
+        font-size:8px;
+    }
+
+    .sec section{
+        margin-top: 4px;
+    }
+
+    .yn h4{
+        font-size: 10px;
+    }
+    .enw button{
+        width: 62px;
+        height: 30px;
+        border-radius:6px;
+    }
+    .enw h2{
+        font-size: 11px;
+    }
+    .enw svg{
+        font-size: 10px;
+        margin-right: 4px;
+    }
+
+    .forSizes{
+        width: 100%;
+        height: fit-content;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        top: -100px;
+        left: 0;
+    }
+    .forSizes p{
+        position: absolute;
+        color: white;
+        font-size: 20px;
+        font-weight: 700;
+        font-family: "Pathway Extreme", sans-serif;
+        z-index: 20;
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    .forSizes img{
+        width: 200px;
+        height: 290px;
+    }
+
+
+    .gfr{
+        height: 820px;
+    }
+    .movieD{
+    height: 870px;
+    }
+    .gfr{
+        margin-top: 50px!important;
+    }
+
+
+    .rght{
+        padding: 22px 24px;
+        padding-top: 150px;
+    }
+    #eg{
+        width: 94px;
+        height: 32px;
+        border-radius: 25px;
+    }
+    #eg a{
+        font-size: 14px;
+        margin: 0;
+    }
+    #eg svg{
+        font-size:10px;
+        margin: 0;
+        margin-top: -2px;
+        margin-right: 5px;
+    }
+    .rght h1{
+        font-size: 26px;
+        margin-top: 27px;
+    }
+
+
+    .all8{
+        margin-top: 30px;
+        margin-bottom: 35px;
+    }
+    #fre{
+        font-size: 17px;
+    }
+    .gtr h2{
+        font-size: 16px;
+        margin-top: 5px;
+    }
+
+    .gtr{
+        height: 48px;
+        margin-right: 17px;
+        padding-right: 30px;
+    }
+
+    .all8 button{
+        width: 145px;
+        height: 48px;
+        padding: 0 13px;
+        border-radius: 8.5px;
+    }
+    .all8 button h3,.all8 button svg{
+        font-size: 14px;
+    }
+    #ert svg{
+        font-size: 12px;
+        margin-right: 5px;
+    }
+    #rew p{
+        font-size: 12px;
+    }
+    #key,#value{
+        font-size: 11px;
+        margin-top: 13px;
+    }
+
+    .sd{
+        width: 75px;
+        height: 26px;
+        border-radius: 5px;
+        font-size: 10px;
+        margin-top: 8.5px;
+    }
+
+    .sd svg{
+        font-size: 13px;
+        margin-right: 4px;
+    }
+
+    .afe{
+        padding: 12px 17px;
+        border-radius: 8.5px;
+        margin-top: 5px;
+    }
+    .afe p{
+        font-size: 11px;
+    }
+
+    .allKeys{
+        margin-top: 17px;
+    }
+    #n2{
+        margin-left: 22px;
+    }
+    #n2 h3{
+        font-size: 12px;
+        margin-top: 13px;
+        margin-right: 5px;
+    }
+
+    .relatedPhotos{
+        padding: 30px 0!important;
+    }
+    #imgo{
+        width: 100%;
+        height: 130px;
+    }
+    .nextNuka,.prevNuka{
+        width: 35px;
+        height: 45px;
+        border-radius: 5px;
+        font-size: 24px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .nextNuka{
+        margin-right: -17px;
+    }
+    .prevNuka{
+        margin-left: -17px;
+    }
+
+
+    .doty{
+        top: 165px!important;
+        margin-left: -100px!important;
+    }
+    .paging-item  {
+        width: 22px;
+        height: 6px;
+        margin-right: 8.5px;
+    }
+
+    .myLike {
+        padding: 40px 50px !important;
+    }
+    .yer h1{
+        font-size: 21px;
+        margin-bottom: 17px;
+    }
+
+
+    #rrw{
+        font-size:27px ;
+        top: -11px;
+        right: -11px;
+    }
+    .re{
+        width: 80%;
+        height: 60%;
+    }
+    .de{
+        display: none;
+    }
+
+
+    .gp{
+        padding-top: 30px!important;
+        padding-bottom: 60px!important;
+    }
+
+    .htuk{
+        height: 300px;
+        border-radius: 25px;
+    }
+    .htuk img{
+        width: 170px;
+        height: 50px;
+    }
+    .htuk p{
+        font-size: 12px;
+        margin-top: 14px;
+    }
+    .ter span{
+        font-size: 13px;
+    }
+    .ter p{
+        font-size: 8px;
+    }
+    .ter section{
+        width: 42px;
+        height: 22px;
+        margin-left: 5px;
+        font-size: 8px;
+    }
+
+    .htuk button{
+        width: 320px;
+        height: 45px;
+        border-radius: 11px;
+        font-size: 13px;
+        margin-top: 14px;
+    }
+    .specialU{
+        font-size: 25px;
+        margin-top: 40px;
+    }
+    .spP{
+        font-size: 12px;
+    }
+    .ae{
+        margin-top: 7px;
+        margin-bottom: 14px;
+    }
+
+
+    .ug{
+        padding: 20px 40px!important;
+    }
+    .ug h1{
+        font-size: 30px;
+    }
+    .ug p{
+        font-size: 11px;
+        margin-top: 8.5px;
+    }
+    .ug input{
+        width: 100%;
+        height: 32px;
+        font-size: 12px;
+        margin-bottom: 17px;
+    }
+
+
+    .ug h4{
+        font-size: 11px;
+    }
+    .ug textarea{
+        width: 100%;
+        height: 50px;
+        font-size: 12px;
+    }
+
+    .ug button{
+        width: 70px;
+        height: 35px;
+        border-radius: 7px;
+        margin-top: 22px;
+        font-size: 14px;
+    }
+
+
+
+
+
+
+
+
+    .loginOrSignup{
+        padding:30px 40px ;
+        padding-top: 85px!important;
+    }
+    .sty{
+        width: 90%;
+    }
+    .sty img{
+        width: 50%;
+        height: 500px;
+    }
+    .right-part{
+        width: 50%;
+        height: 500px;
+        padding: 25px 30px;
+    }
+    .login svg{
+        font-size: 25px;
+        top: -35px;
+        right: -40px;
+    }
+    .login h1{
+        font-size: 24px;
+    }
+    .login p{
+        font-size: 12px;
+        margin-top: 10px;
+        margin-bottom: 7px;
+    }
+    .login input{
+        width: 100%;
+        height: 37px;
+        font-size: 12px;
+    }
+    .login button{
+        width: 100%;
+        height: 43px;
+        border-radius: 8.5px;
+        font-size: 15px;
+        margin-top: 20px;
+    }
+
+    #h,#h1{
+        font-size: 13px;
+        line-height: 1.6;
+    }
+    #h1{
+        margin-top: 22px;
+    }
+    #h1 h4{
+        margin-left: 5px;
+        font-size: 13px;
+    }
+    .error{
+        border-radius: 8px;
+        padding: 8px;
+    }
+    .error p{
+        font-size: 14px;
+        margin: 0;
+    }
+
+
+
+    .success{
+        border-radius: 8px;
+        padding: 8px;
+    }
+    .success p{
+        font-size: 14px;
+        margin: 0;
+    }
+    #arrowDown{
+        width: 35px;
+        height: 35px;
+        font-size: 14px;
+    }
+
+
+    .menuDown{
+        top: 38px;
+        border-radius: 10px;
+        width: 170px;
+        padding: 10px 0px;
+    }
+
+    .eq{
+        padding: 0 22px;
+        width: 100%;
+        height: 37px;
+    }
+    .eq svg{
+        font-size: 12px;
+        margin-right: 18px;
+    }
+
+
+    .eq h3{
+        font-size: 12px;
+    }
+
+
+    .header{
+        height: 118px;
+    }
+
+    .hd{
+        height: 118px;
+    }
+    .hd h1{
+        font-size: 30px;
+    }
+    .bottomP{
+        width: 100%;
+        height: 35px;
+    }
+
+    .bottomP section{
+        padding: 8px 12px;
+        border-top-left-radius: 7px;
+        border-top-right-radius: 7px;
+    }
+    .bottomP h4{
+        font-size: 12px;
+    }
+
+    .bhd{
+        padding: 45px 0!important;
+    }
+    .bhd p{
+        font-size: 10px;
+        margin-bottom: 7px;
+    }
+    .bhd input{
+        height: 35px;
+        font-size: 12px;
+        margin-bottom: 22px;
+    }
+
+
+
+    .bhde button{
+        width: 75px;
+        height: 40px;
+        border-radius: 7px;
+        font-size: 15px;
+    }
+    #en p{
+        font-size: 12px;
+    }
+    #en svg{
+        margin-right: 7px;
+        font-size: 12px;
+
+    }
+    .isNeeded{
+        padding-bottom: 50px!important;
+    }
+
+    .lbl{
+        width: 85%;
+        height: 72%;
+        padding: 30px 45px;
+    }
+    #we{
+        font-size: 25px;
+        top: -12px;
+        right: -12px;
+    }
+    .lbl h1{
+        font-size: 25px;
+    }
+
+    .lbl h2{
+        font-size: 14px;
+        margin-top: 8.5px;
+        margin-bottom: 30px;
+    }
+    .lbl input{
+        height: 40px;
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+
+    .lbl button{
+        width: 100%;
+        height: 42px;
+        border-radius: 8.5px;
+        font-size: 18px;
+        margin-top: 30px;
+        margin-bottom: 12px;
+    }
+
+
+
+    .fee{
+        padding-bottom: 30px!important;
+    }
+    .fee h1{
+        font-size: 20px;
+    }
+
+    .lbl svg,#par svg{
+        font-size: 15px;
+        right: 0;
+        margin-top: 8px;
+    }
+
+
+    #par svg{
+        top: 38px;
+
+    }
+
+
+
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+    .navB{
+        display: none;
+    }
+
+    .navB2{
+        height: 70px;
+        display: block;
+        background: #0B0B0D;
+        padding: 0 27px!important;
+        box-sizing: border-box;
+        position: relative;
+        z-index: 1999!important;
+    }
+    .tp{
+        height: 70px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+    }
+    #ab{
+        padding: 0 25px!important;
+        box-sizing: border-box;
+    }
+    .tp svg{
+        color: white;
+        font-size: 24px;
+        cursor: pointer;
+        font-weight: 900;
+    }
+    .tp img{
+        width: 90%;
+        height: 62%;
+        margin-left: 20px;
+    }
+    .tp a{
+        width: fit-content;
+        height: fit-content;
+        margin: 0;
+    }
+
+    .divInput{
+        width: 100%;
+        height: fit-content;
+        position: absolute;
+        top: 58px;
+        left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+    }
+    .divInput form{
+        width: 94%;
+        height: fit-content;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .divInput input{
+        width: 100%;
+        height:40px ;
+        padding-left: 44px;
+        box-sizing: border-box;
+        background: #fff;
+        border: 0;
+        font-size: 13px;
+        font-weight: 400;
+        border-radius: 10px;
+        font-family: "Pathway Extreme", sans-serif;
+
+    }
+    .divInput input:focus{
+        outline: none;
+    }
+    .divInput svg{
+        font-size: 15px;
+        left: 35px;
+        position: absolute;
+    }
+    .menu{
+        width: 100%;
+        height: 89vh;
+        background-color: rgba(0, 0, 0, 0.24);
+        position: fixed;
+        bottom: 0px;
+        backdrop-filter: blur(15px);
+        left: 0;
+        z-index: 99;
+    }
+
+    .hv{
+        width: 100%;
+        height: fit-content;
+        background-color: rgba(19, 19, 21, .9);
+        padding: 15px 25px;
+        box-sizing: border-box;
+    }
+    .topMenu{
+        width: 100%;
+        height:50px ;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        border-bottom: 1px solid rgba(255, 255, 255, .05);
+    cursor: pointer;
+    }
+    .link{
+        text-decoration: none;
+        color:white ;
+        font-family: 'Pathway Extreme', sans-serif;
+        font-size: 16px;
+        line-height: 1.6;
+        font-weight: 400;
+
+    }
+   .link:hover{
+        color: #0feffd;
+    }
+
+
+
+    #rt3{
+        margin-top: 25px!important;
+        margin-bottom: 15px!important;
+    }
+    #rt3 h1{
+        font-size: 18px;
+        margin-left: 10px;
+    }
+    .y45{
+        margin-left: 14px;
+    }
+    .y45 h2{
+        font-size: 13px;
+        margin-left: 5px;
+    }
+    .y45 svg{
+        font-size: 13px;
+    }
+    .tr{
+        padding: 0 10px!important;
+    }
+    .eachMovie {
+        width: 32.7%;
+        height:265px;
+        margin-bottom: 3px;
+        margin-right: 3px;
+    }
+
+    #top{
+        padding: 0px 11px;
+        margin-top: 6px;
+    }
+
+    #top h2{
+        font-size: 14px;
+    }
+    #bottom h3{
+        font-size: 8.5px;
+        margin-right: 4px;
+    }
+    #bottom{
+        padding: 4px 4px;
+        padding-top: 7px;
+    }
+    .eachMovie:hover #bottom{
+        border-radius: 7px;
+        margin-bottom: 7px;
+    }
+    #bottom h1{
+        font-size: 13px;
+    }
+
+    #tr{
+        width: 25px;
+        height: 25px;
+        font-size: 11px;
+    }
+
+
+    .pagination{
+        width: 42%;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .eachPage{
+        width: 32px;
+        height: 32px;
+        font-size: 1em;
+        border-radius: 5px;
+    }
+
+
+    .filterBy{
+        padding: 20px 0!important;
+    }
+
+    .jio h1{
+        font-size: 21px;
+    }
+    .real{
+        width: 94.5%;
+        padding:  30px 30px!important;
+    }
+
+    #headline{
+        margin-top: 22px;
+        margin-bottom: 14px;
+    }
+    #headline svg{
+        font-size: 12px;
+    }
+    #headline h2{
+        font-size: 12px;
+        margin-left: 7px;
+    }
+
+    .options p{
+        font-size: 14px;
+        padding:  4px 6px;
+        border-radius: 4px;
+        margin-bottom: 4px;
+        margin-right: 4px;
+    }
+    .end{
+        margin-top: 17px;
+    }
+    #id1{
+        height: 40px;
+        border-radius: 7px;
+        font-size: 14px;
+    }
+    #id2{
+        height: 40px;
+        border-radius: 7px;
+        font-size: 14px;
+    }
+
+    .er{
+        margin-top: 22px;
+    }
+
+
+
+    .footer{
+        height: 150px;
+    }
+    .foot{
+        height: 150px;
+        padding:25px 25px!important;
+    }
+    .imge img{
+        width: 75%;
+        height: 20px;
+    }
+
+    .sec h3{
+        font-size: 8.5px;
+    }
+    .sec p,.sec span{
+        margin-top: 2px;
+        font-size:6px;
+    }
+
+    .sec section{
+        margin-top: 4px;
+    }
+
+    .yn h4{
+        font-size: 8.5px;
+    }
+    .enw button{
+        width: 42px;
+        height: 20px;
+        border-radius:5px;
+    }
+    .enw h2{
+        font-size: 9px;
+    }
+    .enw svg{
+        font-size: 8.5px;
+        margin-right: 4px;
+    }
+
+
+
+    .forSizes{
+        width: 100%;
+        height: fit-content;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        top: -100px;
+        left: 0;
+    }
+    .forSizes p{
+        position: absolute;
+        color: white;
+        font-size: 18px;
+        font-weight: 700;
+        font-family: "Pathway Extreme", sans-serif;
+        z-index: 20;
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    .forSizes img{
+        width: 180px;
+        height: 250px;
+    }
+
+
+    .gfr{
+        height: 780px;
+    }
+    .movieD{
+        height: 860px;
+
+    }
+    .gfr{
+        margin-top: 10px!important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+
+    .rght{
+        padding: 22px 24px;
+        padding-top: 150px;
+    }
+    #eg{
+        width: 84px;
+        height: 29px;
+        border-radius: 25px;
+    }
+    #eg a{
+        font-size: 12px;
+        margin: 0;
+    }
+    #eg svg{
+        font-size:11px;
+        margin: 0;
+        margin-top: -2px;
+        margin-right: 5px;
+    }
+    .coverPage {
+        position: absolute;
+        right: unset;
+        width: 90%;
+    }
+    .rght h1{
+        font-size: 21px;
+        margin-top: 27px;
+    }
+
+
+    .all8{
+        margin-top: 30px;
+        margin-bottom: 35px;
+    }
+    #fre{
+        font-size: 14px;
+    }
+    .gtr h2{
+        font-size: 13px;
+        margin-top: 5px;
+    }
+
+    .gtr{
+        height: 48px;
+        margin-right: 17px;
+        padding-right: 30px;
+    }
+
+    .all8 button{
+        width: 120px;
+        height: 45px;
+        padding: 0 13px;
+        border-radius: 8.5px;
+    }
+    .all8 button h3,.all8 button svg{
+        font-size: 12px;
+    }
+    #ert svg{
+        font-size: 11px;
+        margin-right: 5px;
+    }
+    #rew p{
+        font-size: 12px;
+    }
+    #key,#value{
+        font-size: 9px;
+        margin-top: 13px;
+    }
+    #n2 h3{
+        font-size: 9px!important;
+    }
+
+    .sd{
+        width: 75px;
+        height: 26px;
+        border-radius: 5px;
+        font-size: 8px;
+        margin-top: 8.5px;
+    }
+
+    .sd svg{
+        font-size: 13px;
+        margin-right: 4px;
+    }
+
+    .afe{
+        padding: 12px 17px;
+        border-radius: 8.5px;
+        margin-top: 5px;
+    }
+    .afe p{
+        font-size: 11px;
+    }
+
+    .allKeys{
+        margin-top: 17px;
+    }
+    #n2{
+        margin-left: 22px;
+    }
+    #n2 h3{
+        font-size: 12px;
+        margin-top: 13px;
+        margin-right: 5px;
+    }
+
+    .relatedPhotos{
+        padding: 30px 0!important;
+    }
+    #imgo{
+        width: 100%;
+        height: 130px;
+    }
+    .nextNuka,.prevNuka{
+        width: 35px;
+        height: 45px;
+        border-radius: 5px;
+        font-size: 24px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .nextNuka{
+        margin-right: -17px;
+    }
+    .prevNuka{
+        margin-left: -17px;
+    }
+
+
+    .doty{
+        top: 165px!important;
+        margin-left: -100px!important;
+    }
+    .paging-item  {
+        width: 22px;
+        height: 6px;
+        margin-right: 8.5px;
+    }
+
+    .myLike {
+        padding: 40px 50px !important;
+    }
+    .yer h1{
+        font-size: 18px;
+        margin-bottom: 17px;
+    }
+
+
+    #rrw{
+        font-size:27px ;
+        top: -11px;
+        right: -11px;
+    }
+    .re{
+        width: 80%;
+        height: 40%;
+    }
+    .de{
+        display: none;
+    }
+
+
+    .gp{
+        padding-top: 20px!important;
+        padding-bottom: 50px!important;
+    }
+
+    .htuk{
+        height: 220px;
+        border-radius: 20px;
+    }
+    .htuk img{
+        width: 130px;
+        height: 40px;
+    }
+    .htuk p{
+        font-size: 10px;
+        margin-top: 12px;
+    }
+    .ter span{
+        font-size: 11px;
+    }
+    .ter p{
+        font-size: 7px;
+    }
+    .ter section{
+        width: 35px;
+        height: 18px;
+        margin-left:4px;
+        font-size: 7px;
+    }
+
+    .htuk button{
+        width: 230px;
+        height: 38px;
+        border-radius: 9px;
+        font-size: 11px;
+        margin-top: 12px;
+    }
+    .specialU{
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    .spP{
+        font-size: 9px;
+    }
+    .ae{
+        margin-top: 5px;
+        margin-bottom: 12px;
+    }
+
+
+
+    .ug{
+        padding: 20px 30px!important;
+    }
+    .ug h1{
+        font-size: 20px;
+    }
+    .ug p{
+        font-size: 9px;
+        margin-top: 7px;
+    }
+    .ug input{
+        width: 100%;
+        height: 25px;
+        font-size: 10px;
+        margin-bottom: 14px;
+    }
+
+
+    .ug h4{
+        font-size: 9px;
+    }
+    .ug textarea{
+        width: 100%;
+        height: 35px;
+        font-size: 10px;
+    }
+
+    .ug button{
+        width: 70px;
+        height: 35px;
+        border-radius: 5px;
+        margin-top: 18px;
+        font-size: 12px;
+    }
+
+
+
+
+
+
+    .loginOrSignup{
+        padding:20px 30px ;
+        padding: 0!important;
+    }
+    .sty{
+        width: 90%;
+    }
+    .sty img{
+        width: 50%;
+        height: 420px;
+    }
+    .right-part{
+        width: 50%;
+        height: 420px;
+        padding: 20px 25px;
+    }
+    .login svg{
+        font-size: 20px;
+        top: -30px;
+        right: -35px;
+    }
+    .login h1{
+        font-size: 16px;
+    }
+    .login p{
+        font-size: 10px;
+        margin-top: 8px;
+        margin-bottom: 3px;
+    }
+    .login input{
+        width: 100%;
+        height: 33px;
+        font-size: 10px;
+    }
+    .login button{
+        width: 100%;
+        height: 35px;
+        border-radius:7px;
+        font-size: 12px;
+        margin-top: 17px;
+    }
+
+    #h,#h1{
+        font-size: 10px;
+        line-height: 1.6;
+    }
+    #h1{
+        margin-top: 18px;
+    }
+    #h1 h4{
+        margin-left: 5px;
+        font-size: 11px;
+    }
+    .error{
+        border-radius: 5px;
+        padding: 6px;
+        margin-top: 5px;
+    }
+    .error p{
+        font-size: 11px;
+        margin: 0;
+    }
+
+
+
+    .success{
+        border-radius: 5px;
+        padding: 6px;
+    }
+    .success p{
+        font-size: 11px;
+        margin: 0;
+    }
+
+
+
+
+    #arrowDown{
+        width: 30px;
+        height: 30px;
+    }
+    #arrowDown svg{
+        color: black;
+        font-size: 14px;
+
+    }
+
+    #arrowDown{
+        width: 35px;
+        height: 35px;
+        font-size: 14px;
+    }
+
+
+    .menuDown{
+        top: 38px;
+        border-radius: 10px;
+        width: 160px;
+        padding: 7px 0px;
+    }
+
+    .eq{
+        padding: 0 18px;
+        width: 100%;
+        height: 32px;
+    }
+    .eq svg{
+        font-size: 12px;
+        margin-right: 18px;
+        color: black;
+    }
+
+
+    .eq h3{
+        font-size: 12px;
+    }
+
+
+
+
+    .header{
+        height: 128px;
+    }
+
+    .hd{
+        height:128px;
+    }
+    .hd h1{
+        margin-bottom: 15px;
+        font-size: 22px;
+    }
+    .bottomP{
+        width: 100%;
+        height: 30px;
+    }
+
+    .bottomP section{
+        padding: 7px 10px;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    .bottomP h4{
+        font-size: 10px;
+    }
+
+    .bhd{
+        padding: 30px 0!important;
+    }
+    .bhd p{
+        font-size: 8.5px;
+        margin-bottom: 5px;
+    }
+    .bhd input{
+        height: 28px;
+        font-size: 10px;
+        margin-bottom: 18px;
+    }
+
+
+
+    .bhde button{
+        width: 60px;
+        height: 30px;
+        border-radius: 5px;
+        font-size: 13px;
+    }
+    #en p{
+        font-size: 10px;
+    }
+    #en svg{
+        margin-right: 5px;
+        font-size: 10px;
+
+    }
+    .isNeeded{
+        padding-bottom: 40px!important;
+    }
+
+
+    .lbl{
+        width: 85%;
+        height: 72%;
+        padding: 30px 45px;
+    }
+    #we{
+        font-size: 25px;
+        top: -12px;
+        right: -12px;
+    }
+    .lbl h1{
+        font-size: 25px;
+    }
+
+    .lbl h2{
+        font-size: 14px;
+        margin-top: 8.5px;
+        margin-bottom: 30px;
+    }
+    .lbl input{
+        height: 40px;
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+
+    .lbl button{
+        width: 100%;
+        height: 42px;
+        border-radius: 8.5px;
+        font-size: 18px;
+        margin-top: 30px;
+        margin-bottom: 12px;
+    }
+
+
+
+    .fee{
+        padding-bottom: 22px!important;
+    }
+    .fee h1{
+        font-size: 20px;
+    }
+    .lbl svg,#par svg{
+        font-size: 15px;
+        right: 0;
+        margin-top: 8px;
+    }
+
+
+
+    #par svg{
+        font-size: 13px;
+        top: 28px;
+
+    }
+
+
+
+}
+
+@media only screen and (max-width: 576px) {
+    .navB{
+        display: none;
+    }
+
+
+    .navB2{
+        height: 60px;
+        display: block;
+        background: #0B0B0D;
+        padding: 0 24px!important;
+        box-sizing: border-box;
+        position: relative;
+        z-index: 1999!important;
+    }
+    .tp{
+        height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+    }
+    #ab{
+        padding: 0 20px!important;
+        box-sizing: border-box;
+    }
+    .tp svg{
+        color: white;
+        font-size: 21px;
+        cursor: pointer;
+        font-weight: 900;
+    }
+    #spka{
+        margin-right: 15px;
+    }
+    .tp img{
+        width: 90%;
+        height: 62%;
+        margin-left: 20px;
+    }
+    .tp a{
+        width: fit-content;
+        height: fit-content;
+        margin: 0;
+    }
+
+    .divInput{
+        width: 100%;
+        height: fit-content;
+        position: absolute;
+        top: 58px;
+        left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+    }
+    .divInput form{
+        width: 94%;
+        height: fit-content;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .divInput input{
+        width: 100%;
+        height:40px ;
+        padding-left: 44px;
+        box-sizing: border-box;
+        background: #fff;
+        border: 0;
+        font-size: 13px;
+        font-weight: 400;
+        border-radius: 10px;
+        font-family: "Pathway Extreme", sans-serif;
+
+    }
+    .divInput input:focus{
+        outline: none;
+    }
+    .divInput svg{
+        font-size: 15px;
+        left: 35px;
+        position: absolute;
+    }
+    .menu{
+        width: 100%;
+        height: 89vh;
+        background-color: rgba(0, 0, 0, .14);
+        position: fixed;
+        bottom: 0px;
+        backdrop-filter: blur(15px);
+        left: 0;
+        z-index: 99;
+    }
+
+    .hv{
+        width: 100%;
+        height: fit-content;
+        background-color: rgba(19, 19, 21, .9);
+        padding: 15px 25px;
+        box-sizing: border-box;
+    }
+    .topMenu{
+        width: 100%;
+        height:50px ;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        border-bottom: 1px solid rgba(255, 255, 255, .05);
+        cursor: pointer;
+    }
+    .link{
+        text-decoration: none;
+        color:white ;
+        font-family: 'Pathway Extreme', sans-serif;
+        font-size: 16px;
+        line-height: 1.6;
+        font-weight: 400;
+
+    }
+    .link:hover{
+        color: #0feffd;
+    }
+
+
+
+
+    #rt3{
+        margin-top: 20px!important;
+        margin-bottom: 10px!important;
+    }
+    #rt3 h1{
+        font-size: 15px;
+        margin-left: 8.5px;
+    }
+    .y45{
+        margin-left: 12px;
+    }
+    .y45 h2{
+        font-size: 11px;
+        margin-left: 4px;
+    }
+    .y45 svg{
+        font-size: 11px;
+    }
+    .tr{
+        padding: 0 6px!important;
+    }
+    .eachMovie {
+        width: 32.5%;
+        height:190px;
+        margin-bottom: 3px;
+        margin-right: 3px;
+
+    }
+
+    #top{
+        padding: 0px 9px;
+        margin-top: 5px;
+    }
+
+    #top h2{
+        font-size: 12px;
+    }
+    #bottom h3{
+        font-size: 7px;
+        margin-right: 3px;
+    }
+    #bottom{
+        padding: 3px 3px;
+        padding-top: 6px;
+    }
+    .eachMovie:hover #bottom{
+        border-radius: 5px;
+        margin-bottom: 5px;
+    }
+    #bottom h1{
+        font-size: 11px;
+    }
+
+    #tr{
+        width: 20px;
+        height: 20px;
+        font-size: 9px;
+    }
+
+
+    .pagination{
+        width: 52.5%;
+        margin-top: 35px;
+        margin-bottom: 35px;
+    }
+    .eachPage{
+        width: 28px;
+        height: 28px;
+        font-size: 0.8em;
+        border-radius: 3px;
+    }
+
+
+    .filterBy{
+        padding: 10px 10px!important;
+    }
+
+    .jio h1{
+        font-size: 18px;
+    }
+    .real{
+        width: 94.5%;
+        padding:  30px 10px!important;
+    }
+
+    #headline{
+        margin-top: 18px;
+        margin-bottom: 11px;
+    }
+    #headline svg{
+        font-size: 10px;
+    }
+    #headline h2{
+        font-size: 10px;
+        margin-left: 6px;
+    }
+
+    .options p{
+        font-size: 12px;
+        padding:  4px 6px;
+        border-radius: 4px;
+        margin-bottom: 4px;
+        margin-right: 4px;
+    }
+    .end{
+        margin-top: 14px;
+    }
+    #id1{
+        height: 32px;
+        border-radius: 5px;
+        font-size: 12px;
+    }
+    #id2{
+        height: 32px;
+        border-radius: 5px;
+        font-size: 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .er{
+        margin-top: 22px;
+    }
+
+
+
+
+
+
+    .footer{
+        height: fit-content;
+    }
+    .foot{
+        height: fit-content;
+        padding:25px 25px!important;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+    }
+    .imge{
+        width: 100%;
+    }
+    .imge img{
+        width: 35%;
+        height:35px;
+    }
+
+    .sec{
+        width: 100%;
+    }
+    .sec h3{
+        font-size: 14px;
+        margin-top: 30px;
+    }
+    .sec p,.sec span{
+        margin-top: 2px;
+        font-size:12px;
+    }
+
+    .sec section{
+        margin-top: 4px;
+    }
+
+    .yn h4{
+        font-size: 12px;
+    }
+    .enw button{
+        display: none;
+    }
+
+
+
+
+
+    .forSizes{
+        width: 100%;
+        height: fit-content;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        top: -100px;
+        left: 0;
+    }
+    .forSizes p{
+        position: absolute;
+        color: white;
+        font-size: 18px;
+        font-weight: 700;
+        font-family: "Pathway Extreme", sans-serif;
+        z-index: 20;
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    .forSizes img{
+        width: 180px;
+        height: 250px;
+    }
+
+
+    .gfr{
+        height: 780px;
+    }
+    .movieD{
+        height: 860px;
+
+    }
+    .gfr{
+        margin-top: 10px!important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+
+    .rght{
+        padding: 22px 24px;
+        padding-top: 170px;
+    }
+    #eg{
+        width: 84px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 29px;
+        border-radius: 25px;
+    }
+    #eg a{
+        font-size: 10px;
+        margin: 0;
+    }
+    #eg svg{
+        font-size:11px;
+        margin: 0;
+        margin-top: -2px;
+        margin-right: 5px;
+    }
+    .coverPage {
+        position: absolute;
+        right: unset;
+        width: 90%;
+    }
+    .rght h1{
+        font-size: 18px;
+        margin-top: 27px;
+    }
+
+
+    .all8{
+        width: 100%;
+        margin-top: 30px;
+        margin-bottom: 35px;
+    }
+    #fre{
+        font-size: 10px;
+        margin: 0;
+    }
+    .gtr h2{
+        font-size: 10px;
+        margin-top: 5px;
+    }
+
+    .gtr{
+        margin-right: 17px;
+        padding-right: 6px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 33%;
+        height:45px;
+        padding-right: 3px;
+    }
+
+    .all8 button{
+        width: 85px;
+        height: 35px;
+        padding: 0 13px;
+        border-radius: 8.5px;
+    }
+    .all8 button h3,.all8 button svg{
+        font-size: 8px;
+    }
+    .all8 button svg{
+        margin-right: 2px;
+    }
+    #ert svg{
+        font-size: 6px;
+        margin-right: 5px;
+    }
+    #ert{
+        height: 10px;
+    }
+    #rew p{
+        font-size: 8px;
+        margin: 0;
+    }
+    #key,#value{
+        font-size: 7px;
+        margin-top: 13px;
+    }
+    #n2 h3{
+        font-size: 7px!important;
+    }
+
+    .sd{
+        width: 75px;
+        height: 26px;
+        border-radius: 5px;
+        font-size: 8px;
+        margin-top: 8.5px;
+    }
+
+    .sd svg{
+        font-size: 13px;
+        margin-right: 4px;
+    }
+
+    .afe{
+        width: 90%;
+        padding: 12px 17px;
+        border-radius: 8.5px;
+        margin-top: 5px;
+    }
+    .afe p{
+        font-size: 11px;
+    }
+
+    .allKeys{
+        margin-top: 17px;
+    }
+    #n2{
+        margin-left: 22px;
+    }
+    #n2 h3{
+        font-size: 12px;
+        margin-top: 13px;
+        margin-right: 5px;
+    }
+
+    .relatedPhotos{
+        padding: 20px 0!important;
+    }
+    #imgo{
+        width: 100%;
+        height: 200px;
+    }
+    .nextNuka,.prevNuka{
+        width: 35px;
+        height: 45px;
+        border-radius: 5px;
+        font-size: 24px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .nextNuka{
+        margin-right: -17px;
+    }
+    .prevNuka{
+        margin-left: -17px;
+    }
+
+
+    .doty{
+        top: 220px!important;
+        margin-left: -50px!important;
+    }
+    .paging-item  {
+        width: 22px;
+        height: 6px;
+        margin-right: 8.5px;
+    }
+
+    .myLike .eachMovie{
+        width: 32.5%;
+        height: 160px;
+    }
+    .myLike {
+        padding: 40px 10px !important;
+    }
+    .yer h1{
+        font-size: 18px;
+        margin-bottom: 17px;
+    }
+
+
+    #rrw{
+        font-size:27px ;
+        top: -11px;
+        right: -11px;
+    }
+    .re{
+        width: 80%;
+        height: 30%;
+    }
+    .de{
+        display: none;
+    }
+
+
+
+    .gp{
+        padding-top: 15px!important;
+        padding-bottom: 35px!important;
+    }
+
+    .htuk{
+        height: 170px;
+        border-radius: 16px;
+    }
+    .htuk img{
+        width: 100px;
+        height: 30px;
+    }
+    .htuk p{
+        font-size: 8px;
+        margin-top: 9px;
+    }
+    .htuk h2 p{
+        margin: 0;
+    }
+    .htuk h2{
+        line-height: 10px;
+    }
+    .ter span{
+        font-size: 9px;
+    }
+    .ter p{
+        font-size: 6px;
+    }
+    .ter section{
+        width: 28px;
+        height: 16px;
+        margin-left:4px;
+        font-size: 6px;
+    }
+
+    .htuk button{
+        width: 180px;
+        height: 32px;
+        border-radius: 9px;
+        font-size: 9px;
+        margin-top: 9px;
+    }
+    .specialU{
+        font-size: 14px;
+        margin-top: 22px;
+    }
+    .spP{
+        font-size: 7px;
+    }
+    .ae{
+        width: 120px;
+        height: 60px;
+        margin-top: 5px;
+        margin-bottom: 12px;
+    }
+
+
+
+    .ug{
+        padding: 25px 20px!important;
+        padding-bottom: 0!important;
+    }
+    .ug h1{
+        font-size: 16px;
+    }
+    .ug p{
+        font-size: 7px;
+        margin-top: 6px;
+    }
+    .ug input{
+        width: 100%;
+        height: 30px;
+        font-size: 8px;
+        margin-bottom: 11px;
+        border: none!important;
+        border-radius: 0!important;
+        border-bottom: 1px solid rgba(255, 255, 255, .1)!important;
+
+    }
+
+
+    .ug h4{
+        font-size: 7px;
+    }
+    .ug textarea{
+        width: 100%;
+        height: 40px;
+        font-size: 8.5px;
+        border: none!important;
+        border-radius: 0!important;
+        border-bottom: 1px solid rgba(255, 255, 255, .1)!important;
+
+    }
+
+    .ug button{
+        width: 50px;
+        height: 24px;
+        border-radius: 5px;
+        margin-top: 14px;
+        font-size: 9px;
+    }
+
+
+
+    .loginOrSignup{
+        padding: 0 5px !important;
+    }
+    .sty{
+        width:96%;
+    }
+    .sty img{
+        width: 50%;
+        height: 340px;
+    }
+    .right-part{
+        width: 50%;
+        height: 340px;
+        padding: 20px 15px;
+    }
+    .login svg{
+        font-size: 20px;
+        top: -30px;
+        right: -25px;
+    }
+    .login h1{
+        font-size: 10px;
+    }
+    .login p{
+        font-size: 8.5px;
+        margin-top: 4px;
+        margin-bottom: 1px;
+    }
+    .login input{
+        width: 100%;
+        height: 28px;
+        font-size: 8.5px;
+    }
+    .login button{
+        width: 100%;
+        height: 30px;
+        border-radius:7px;
+        font-size: 9px;
+        margin-top: 14px;
+    }
+
+    #h,#h1{
+        font-size: 6.5px;
+        line-height: 1.6;
+    }
+    #h1{
+        margin-top: 14px;
+    }
+    #h1 h4{
+        margin-left: 5px;
+        font-size: 7px;
+    }
+    .error{
+        border-radius: 5px;
+        padding: 8px;
+        margin-top: 5px;
+    }
+    .error p{
+        font-size: 7px;
+        margin: 0;
+    }
+
+
+
+    .success{
+        border-radius: 5px;
+        padding: 8px;
+        margin-top: 10px;
+
+    }
+    .success p{
+        font-size: 7px;
+        margin: 0;
+    }
+
+
+    #arrowDown{
+        width: 30px;
+        height: 30px;
+    }
+    #arrowDown svg{
+        color: black;
+        font-size: 14px;
+
+    }
+
+
+
+    .menuDown{
+        top: 33px;
+        border-radius: 10px;
+        width: 160px;
+        padding: 7px 0px;
+    }
+
+    .eq{
+        padding: 0 18px;
+        width: 100%;
+        height: 32px;
+    }
+    .eq svg{
+        font-size: 12px;
+        margin-right: 18px;
+        color: black;
+    }
+
+
+    .eq h3{
+        font-size: 12px;
+    }
+
+
+
+
+    .header{
+        height: 128px;
+    }
+
+    .hd{
+        height:128px;
+    }
+    .hd h1{
+        margin-bottom: 15px;
+        font-size: 22px;
+    }
+    .bottomP{
+        width: 100%;
+        height: 30px;
+    }
+
+    .bottomP section{
+        padding: 7px 10px;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    .bottomP h4{
+        font-size: 10px;
+    }
+
+    .bhd{
+        padding: 30px 0!important;
+    }
+    .bhd p{
+        font-size: 8.5px;
+        margin-bottom: 5px;
+    }
+    .bhd input{
+        height: 28px;
+        font-size: 10px;
+        margin-bottom: 18px;
+    }
+
+
+
+    .bhde button{
+        width: 60px;
+        height: 30px;
+        border-radius: 5px;
+        font-size: 10px;
+        color: black;
+    }
+    #en p{
+        font-size: 10px;
+    }
+    #en svg{
+        margin-right: 5px;
+        font-size: 10px;
+
+    }
+    .isNeeded{
+        padding-bottom: 40px!important;
+    }
+
+
+
+    .lbl{
+        width: 85%;
+        height: 80%;
+        padding: 30px 45px;
+    }
+    #we{
+        font-size: 25px;
+        top: -12px;
+        right: -12px;
+    }
+    .lbl h1{
+        font-size: 25px;
+    }
+
+    .lbl h2{
+        font-size: 14px;
+        margin-top: 8.5px;
+        margin-bottom: 30px;
+    }
+    .lbl input{
+        height: 40px;
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+
+    .lbl button{
+        width: 100%;
+        height: 42px;
+        border-radius: 8.5px;
+        font-size: 18px;
+        margin-top: 30px;
+        margin-bottom: 12px;
+    }
+
+
+    .fee{
+        padding-bottom: 17px!important;
+    }
+    .fee h1{
+        font-size: 16px;
+    }
+
+    .lbl svg,#par svg{
+        font-size: 15px;
+        right: 0;
+        margin-top: 8px;
+    }
+
+
+
+    #par svg{
+        font-size: 11px;
+        top: 20px;
+
+    }
+}
