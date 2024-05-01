@@ -18,6 +18,7 @@ import Carousel from 'nuka-carousel'
 
 
 function MovieData(props) {
+    const hostedUrl='https://mernbackend-gk1y.onrender.com'
     const [trailer,setTrailer]=useState(false)
     const location = useLocation();
     const movieData = location.state?.movieData;
@@ -253,7 +254,7 @@ const [similiarMovies,setSimiliarMovies]=useState([])
             console.log(id.id,'userId')
             console.log(item.id,'movieId')
             console.log(selectedModel,'modelId')
-            const response = await fetch(`/api/user/${id.id}/removeMovie/${item.id}/model/${selectedModel._id}`, {
+            const response = await fetch(`${hostedUrl}/api/user/${id.id}/removeMovie/${item.id}/model/${selectedModel._id}`, {
                 method: 'DELETE',
             });
 
@@ -265,7 +266,7 @@ const [similiarMovies,setSimiliarMovies]=useState([])
     };
     const handleAddToWatchList=async (item)=>{
         try {
-            const response=await fetch(`/api/user/${id.id}/addMovie`,{
+            const response=await fetch(`${hostedUrl}/api/user/${id.id}/addMovie`,{
                 method:'POST',
                 headers:{"Content-Type":"application/json"},
                 body:JSON.stringify({movieItem:item})
@@ -286,7 +287,7 @@ const [similiarMovies,setSimiliarMovies]=useState([])
     }, [id,favourite]);
     const getUser=async (id)=>{
         try {
-            const response = await fetch(`/api/user/${id}`)
+            const response = await fetch(`${hostedUrl}/api/user/${id}`)
             const json = await response.json();
             setModel(json.movies)
             setFavourite(json.movies)

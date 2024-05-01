@@ -12,6 +12,7 @@ function Navbar({color,activeItem}) {
         password:false,
         confirmPassword:false
     })
+    const hostedUrl='https://mernbackend-gk1y.onrender.com'
     const [success,setSuccess]=useState(null)
     const [user,setUser]=useState(JSON.parse(localStorage.getItem("userData"))||{})
     const [show,setShow]=useState(false)
@@ -68,7 +69,7 @@ function Navbar({color,activeItem}) {
         }
 
         try {
-            const response = await fetch('/api/user/signup',{
+            const response = await fetch(`${hostedUrl}/api/user/signup`,{
                 method:"POST",
                 headers:{"Content-Type":"application/json"},
                 body:JSON.stringify({
@@ -107,7 +108,7 @@ function Navbar({color,activeItem}) {
 const handleLogIn=async (ev)=>{
         ev.preventDefault()
     try {
-        const response = await fetch('/api/user/login',{
+        const response = await fetch(`${hostedUrl}/api/user/login`,{
             method:"POST",
             headers:{'Content-Type':'application/json'},
             body:JSON.stringify({

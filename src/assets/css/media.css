@@ -671,6 +671,12 @@
     }
 
 
+    .loader{
+        border: 12px solid #f3f3f3;
+        border-top: 12px solid #0feffd;
+        width: 160px;
+        height: 160px;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -1369,7 +1375,12 @@
         top: 38px;
 
     }
-
+    .loader{
+        border: 12px solid #f3f3f3;
+        border-top: 12px solid #0feffd;
+        width: 160px;
+        height: 160px;
+    }
 
 
 
@@ -2195,6 +2206,13 @@
         font-size: 13px;
         top: 28px;
 
+    }
+
+    .loader{
+        border: 10px solid #f3f3f3;
+        border-top: 10px solid #0feffd;
+        width: 130px;
+        height: 130px;
     }
 
 
@@ -3070,4 +3088,15 @@
         top: 20px;
 
     }
+
+
+    .loader{
+        border: 10px solid #f3f3f3;
+        border-top: 10px solid #0feffd;
+        width: 130px;
+        height: 130px;
+    }
+
+
+
 }

@@ -14,6 +14,7 @@ import {faBookmark as staticIcon, faBookmark} from "@fortawesome/free-regular-sv
 import ReactPaginate from "react-paginate";
 
 function Account(props) {
+    const hostedUrl='https://mernbackend-gk1y.onrender.com'
     const [showPasswords,setShowPasswords]=useState({
         currentPassword:false,
         newPassword:false,
@@ -248,7 +249,7 @@ function Account(props) {
 
     const getUser=async (id)=>{
         try {
-            const response = await fetch(`/api/user/${id}`)
+            const response = await fetch(`${hostedUrl}/api/user/${id}`)
             const json = await response.json();
             setImmediateUser(json)
 
@@ -272,7 +273,7 @@ function Account(props) {
         ev.preventDefault()
         const updatedItem = { firstName: nameToChange };
         try {
-            const response = await fetch(`/api/user/update/${immediateUser._id}`,{
+            const response = await fetch(`${hostedUrl}/api/user/update/${immediateUser._id}`,{
                 method:"PATCH",
                 headers:{'Content-Type':'application/json'},
                 body:JSON.stringify(updatedItem)
@@ -300,7 +301,7 @@ function Account(props) {
             console.log(id.id,'userId')
             console.log(item.id,'movieId')
             console.log(selectedModel,'modelId')
-            const response = await fetch(`/api/user/${id.id}/removeMovie/${item.id}/model/${selectedModel._id}`, {
+            const response = await fetch(`${hostedUrl}/api/user/${id.id}/removeMovie/${item.id}/model/${selectedModel._id}`, {
                 method: 'DELETE',
             });
 
@@ -324,7 +325,7 @@ const [error,setError]=useState(null)
             if (!match){
                 setError('New Passwords dont match ')
             }else{
-            const response = await fetch(`/api/user/${id.id}/passwordChange`, {
+            const response = await fetch(`${hostedUrl}/api/user/${id.id}/passwordChange`, {
                 method: 'PATCH',
                 headers: {'Content-Type': 'application/json'},
                 body: JSON.stringify(newPassword)

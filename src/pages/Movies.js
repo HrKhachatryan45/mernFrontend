@@ -15,6 +15,7 @@ import  {faBookmark as regularIcon} from '@fortawesome/free-solid-svg-icons'
 
 import {useLocation, useNavigate} from "react-router-dom";
 function Movies(props) {
+    const hostedUrl='https://mernbackend-gk1y.onrender.com'
     const [model,setModel]=useState({})
     const [favourite,setFavourite]=useState([])
     const [movieList, setMovieList] = useState([]);
@@ -156,7 +157,7 @@ function Movies(props) {
     };
     const handleAddToWatchList=async (item)=>{
         try {
-            const response=await fetch(`/api/user/${userData.id}/addMovie`,{
+            const response=await fetch(`${hostedUrl}/api/user/${userData.id}/addMovie`,{
                 method:'POST',
                 headers:{"Content-Type":"application/json"},
                 body:JSON.stringify({movieItem:item})
@@ -174,7 +175,7 @@ function Movies(props) {
                 console.log(userData.id,'userId')
                 console.log(item.id,'movieId')
                 console.log(selectedModel,'modelId')
-                        const response = await fetch(`/api/user/${userData.id}/removeMovie/${item.id}/model/${selectedModel._id}`, {
+                        const response = await fetch(`${hostedUrl}/api/user/${userData.id}/removeMovie/${item.id}/model/${selectedModel._id}`, {
                             method: 'DELETE',
                         });
 
@@ -400,7 +401,7 @@ function Movies(props) {
 
     const getUser=async (id)=>{
         try {
-            const response = await fetch(`/api/user/${id}`)
+            const response = await fetch(`${hostedUrl}/api/user/${id}`)
             const json = await response.json();
             setFavourite(json.movies)
             setModel(json.movies)

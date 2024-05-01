@@ -9,12 +9,12 @@ import Account from "./pages/Account";
 
 function App(props) {
     const [user, setUser] = useState(null);
-    const [loading, setLoading] = useState(true);
+    const [loading, setLoading] = useState(false);
     const [id, setId] = useState(JSON.parse(localStorage.getItem("userData")) || []);
-
+    const hostedUrl='https://mernbackend-gk1y.onrender.com'
     const getUser = async (id) => {
         try {
-            const response = await fetch(`/api/user/${id}`);
+            const response = await fetch(`${hostedUrl}/api/user/${id}`);
             const json = await response.json();
             return json;
         } catch (error) {
@@ -40,11 +40,13 @@ function App(props) {
     }, [id]);
 
     if (loading) {
-        return <div>Loading...</div>;
+        return <div className={'loading'}>
+            <section className={'loader'}></section>
+        </div>;
     }
 
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/mernFrontend">
             <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/movies" element={<Movies />} />
