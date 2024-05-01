@@ -48,11 +48,11 @@ function App(props) {
     return (
         <BrowserRouter basename="/mernFrontend">
             <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/movies" element={<Movies />} />
-                <Route path="/movies/:movieName" element={<MovieData />} />
-                <Route path="/contact" element={<Contact />} />
-                <Route path="/account/:id" element={user ? <Account /> : <Navigate to="/" />} />
+                <Route path="/#/" element={<Home />} />
+                <Route path="/#/movies" element={<Movies />} />
+                <Route path="/#/movies/:movieName" element={<MovieData />} />
+                <Route path="/#/contact" element={<Contact />} />
+                <Route path="/#/account/:id" element={user ? <Account /> : <Navigate to="/" />} />
             </Routes>
             <Footer />
         </BrowserRouter>
